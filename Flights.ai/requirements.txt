@@ -1,0 +1,5 @@
+gradio
+requests
+gtts
+ollama
+python-dotenv
